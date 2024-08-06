@@ -4,7 +4,21 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 .idea/
+*.gradlew
+gradlew
+*_gradlew
+*.build.gradle
+*_build.gradle
+build.gradle
+*_setting.gradle
+*.setting.gradle
+settings.gradle
 
+*.gradlew.bat
+*_gradlew.bat
+gradlew.bat
+
+gradle/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
