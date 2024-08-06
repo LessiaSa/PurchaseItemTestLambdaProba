@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.CartServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-06T04:38:05" hostname="WIN-BDSAT3UA98D" time="0.018">
+  <properties/>
+  <testcase name="changeCount()" classname="ru.netology.CartServiceTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
